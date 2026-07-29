@@ -1,5 +1,15 @@
 # 🛒 AI Retail Demand Forecasting
 
+## 🚀 Live Demo
+
+**Streamlit App:**  
+https://ai-retail-demand-forecast.streamlit.app/
+
+## 📂 GitHub Repository
+
+https://github.com/Mano-31/Retail_Demand_Forecasting
+
+
 ## 📌 Project Overview
 
 AI Retail Demand Forecasting is a Machine Learning project that predicts weekly retail sales using historical Walmart sales data. The project applies data preprocessing, feature engineering, and an XGBoost regression model to forecast future sales. A Streamlit dashboard is used to visualize sales trends and generate predictions interactively.
